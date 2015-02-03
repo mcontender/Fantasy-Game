@@ -1,2 +1,1 @@
-Fantasy Game/Library/
-Fantasy Game/Temp/
+*/Library/
